@@ -1,6 +1,6 @@
 **About Me:**
 
-Hello! I'm most proficient in Javascript, and Python. I also know a lot about Linux and terminal commands like grep, piping, ssh, scp 😎😎
+Hello! I'm most proficient in Javascript, and Python. I also know a lot about Linux and terminal commands like grep, piping, ssh, scp 😎
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry-Larriee&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 

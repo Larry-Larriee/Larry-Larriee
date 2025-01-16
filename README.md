@@ -2,7 +2,7 @@
 
 I'm a college student that does front-end and full-stack development to make dynamic web applications. I also like recognizing quotes every so often. Here's One:
 
-"You can't look at a glass half full of empty if it's overflowing." 
+"You can't look at a glass half full or empty if it's overflowing." 
 
 -- Kanye West
 

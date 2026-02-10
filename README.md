@@ -1,6 +1,6 @@
 **About Me:**
 
-I'm a college student that does front-end and full-stack development to make dynamic web/mobile applications. I also like recognizing quotes every so often. Here's One:
+I'm a college student that does front-end and full-stack development to make web/mobile apps. I also like recognizing quotes every so often. Here's One:
 
 "We are stubborn on vision. We are flexible on details." 
 
